@@ -15,13 +15,13 @@ const Login = () => {
     const router = useRouter();
 
     const handleSubmit = (e) => {
-        e.preventDefault(); // предотвращаем стандартное поведение формы
+        e.preventDefault();
 
-        if (username === '1' && password === '1') {
+        if (username === 'Admin' && password === 'pswrd') {
             setAlertMessage('Успешная авторизация...');
             setTimeout(() => {
                 router.push('/mainContent');
-            }, 1000); // Даем время на обновление UI перед переходом
+            }, 1000);
         } else {
             setAlertMessage('Неверные данные');
         }
