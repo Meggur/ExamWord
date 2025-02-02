@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49a84fb8-a8b7-4c1d-9dab-db16dc617934" name="Changes" comment="Задание" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DORIC &lt;kozlovmd.work@yandex.ru&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SHIZOFRIEND&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DORIC22/nextjs&quot;,
+    &quot;accountId&quot;: &quot;39c46862-e047-4df4-a68d-f0e5dcbc0e6f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pfCAjF8XCPp5qs6Zx81t7qzUxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.Unnamed.executor": "Run",
+    "Node.js.footer.js.executor": "Run",
+    "Node.js.header.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Egor/WebstormProjects/nextjs/public/Resourses",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/Egor/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.11.0/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "npm.run.executor": "Run",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\public\Resourses" />
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\public\Resourses" />
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\src\components" />
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\src\app\elements" />
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\public" />
+      <recent name="C:\Users\Egor\WebstormProjects\nextjs\src\Resourses" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49a84fb8-a8b7-4c1d-9dab-db16dc617934" name="Changes" comment="" />
+      <created>1733147601918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733147601918</updated>
+      <workItem from="1733147603016" duration="5482000" />
+      <workItem from="1733210833789" duration="4460000" />
+      <workItem from="1733244964315" duration="256000" />
+      <workItem from="1733245230274" duration="572000" />
+      <workItem from="1733815718509" duration="2956000" />
+      <workItem from="1733819539322" duration="1092000" />
+      <workItem from="1737389209192" duration="2832000" />
+      <workItem from="1737392392564" duration="938000" />
+      <workItem from="1737531300322" duration="1308000" />
+      <workItem from="1737738012124" duration="684000" />
+      <workItem from="1738509230203" duration="4218000" />
+      <workItem from="1738513863218" duration="483000" />
+      <workItem from="1738514609818" duration="1859000" />
+      <workItem from="1738516667666" duration="2320000" />
+    </task>
+    <task id="LOCAL-00001" summary="Базовое оформление к СРС 3, 02.12.2024">
+      <option name="closed" value="true" />
+      <created>1733245075801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733245075801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Авторизация">
+      <option name="closed" value="true" />
+      <created>1733245512442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733245512442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание">
+      <option name="closed" value="true" />
+      <created>1737391820959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737391820959</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание">
+      <option name="closed" value="true" />
+      <created>1737393281999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737393281999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание">
+      <option name="closed" value="true" />
+      <created>1738516025966</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738516025966</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задание">
+      <option name="closed" value="true" />
+      <created>1738516134402</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738516134402</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Задание">
+      <option name="closed" value="true" />
+      <created>1738518497893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738518497893</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Базовое оформление к СРС 3, 02.12.2024" />
+    <MESSAGE value="Авторизация" />
+    <MESSAGE value="Задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/footer.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
